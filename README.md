@@ -1,7 +1,4 @@
-# Crear el contenido del README para el Proyecto 9
-
-readme_9_content = """
-# 📈 Proyecto 9 – Análisis de Marketing para Showz
+# Análisis de Marketing para Showz
 
 Este proyecto analiza el comportamiento del usuario y la eficiencia de las campañas de marketing en **Showz**, una empresa de venta de entradas para eventos. El enfoque principal está en identificar qué estrategias de adquisición de clientes ofrecen mayor retorno sobre la inversión.
 
